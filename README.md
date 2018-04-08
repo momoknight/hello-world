@@ -1,2 +1,3 @@
 # hello-world
-The first program.
+The first repository.
+the begin of study.
